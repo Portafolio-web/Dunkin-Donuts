@@ -1,0 +1,86 @@
+.panel1{
+	margin-top: 17px;
+	margin-left: 55px;
+	margin-bottom: 10px;
+}
+.panel2{
+	margin-top: 20px;
+}
+.panel3{
+	height: 10px;
+	background-color: #ee4699;
+}		
+.card{
+	margin-left: 0px;
+}
+.img{
+	margin-left: 80px;
+}
+.panel4{
+	padding-top: 20px;
+	margin-left: 5px;
+	margin-right: 5px;	
+}
+.panel5{
+	padding-top: 35px;
+	padding-bottom: 30px;
+    margin-left: 5px;
+	margin-right: 5px;	
+}
+.panel6{
+    height: 10px;
+	background-color: rgba(102,54,0,1);
+}
+.panel7{
+    height: 20px;
+	background-color: #fff2d4;
+}
+.panel8{
+    margin-left: 0px;
+    margin-right: 5px;
+    padding-left: 70px;
+    font-family: calibri;
+    padding-bottom: 0px;
+
+}
+.panel9{
+    padding-left: 70px;
+    font-family: calibri;
+    padding-bottom: 0px;
+
+}
+.panel10{
+    padding-left: 70px;
+    font-family: calibri;
+    padding-bottom: 20px;
+}
+li{
+	list-style: none;
+	color: #fff;
+	font-family: calibri;
+}
+li2{
+	list-style: none;
+	color: #fff;
+	font-family: calibri;
+	font-size: 12px;
+}
+p{
+	color: #fff;
+    font-family: calibri;
+	font-weight: bold;
+	font-size: 20px;
+	cursor: pointer;
+}
+.p1{
+	color: #fff;
+    font-family: calibri;
+	font-weight: bold;	
+}
+.panel11{
+	font-size: 13px;
+    font-family: calibri;
+	font-weight: bold;	
+	padding-top: 10px;
+
+}
